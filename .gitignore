@@ -1,0 +1,6 @@
+firmware/.pio/
+# generated per env from sdkconfig.defaults; a stale copy would override the defaults
+firmware/sdkconfig.*
+!firmware/sdkconfig.defaults
+__pycache__/
+recordings/

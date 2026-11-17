@@ -1,0 +1,24 @@
+{
+    "workbench.colorCustomizations": {
+        "[Default Dark Modern]": {
+            "tab.activeBorderTop": "#00FF00",
+            "tab.unfocusedActiveBorderTop": "#00FF0088",
+            "textCodeBlock.background": "#00000055"
+        },
+        "editor.wordHighlightStrongBorder": "#FF6347",
+        "editor.wordHighlightBorder": "#FFD700",
+        "editor.selectionHighlightBorder": "#A9A9A9",
+        "activityBar.background": "#410A56",
+        "titleBar.activeBackground": "#5A0E78",
+        "titleBar.activeForeground": "#FEFBFF",
+        "titleBar.inactiveBackground": "#410A56",
+        "titleBar.inactiveForeground": "#FEFBFF",
+        "statusBar.background": "#410A56",
+        "statusBar.foreground": "#FEFBFF",
+        "statusBar.debuggingBackground": "#410A56",
+        "statusBar.debuggingForeground": "#FEFBFF",
+        "statusBar.noFolderBackground": "#410A56",
+        "statusBar.noFolderForeground": "#FEFBFF"
+    },
+    "cmake.sourceDirectory": "/home/jg/01-projects/emg-record-plotter/firmware"
+}
